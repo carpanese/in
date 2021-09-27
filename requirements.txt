@@ -1,0 +1,8 @@
+pandas
+xgboost
+matplotlib
+scikit-learn
+numpy
+py-healthcheck
+cx_Oracle
+schedule
